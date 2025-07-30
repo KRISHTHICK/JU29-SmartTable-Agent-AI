@@ -1,0 +1,4 @@
+streamlit
+python-docx
+pandas
+openai  # Optional: If you want LLM-based suggestions
